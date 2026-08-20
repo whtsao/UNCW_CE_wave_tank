@@ -6,3 +6,10 @@ This repository contains OpenFOAM models developed to reproduce the physical wav
 
 Quickstart: https://doc.openfoam.com/2606/quickstart/  
 Tutorial Guide: https://www.openfoam.com/documentation/tutorial-guide
+
+# UNCW Coastal Engineering wave tank
+The UNCW Coastal Engineering wave tank is an Edinburgh Designs wave flume designed for experimental studies of waves, coastal processes, and wave–structure interactions. The glass-and-steel tank is nearly 80 ft (24 m) long and 5 ft (1.5 m) wide, with a capacity of approximately 9,500 gallons (36,000 L) of water. 
+
+# Prerequisites
+How to install Linux on Windows with WSL: https://learn.microsoft.com/en-us/windows/wsl/install  
+The Unix Shell: https://swcarpentry.github.io/shell-novice/
