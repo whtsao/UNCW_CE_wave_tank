@@ -6,6 +6,7 @@ This repository contains OpenFOAM models developed to reproduce the physical wav
 
 Quickstart: https://doc.openfoam.com/2606/quickstart/  
 Tutorial Guide: https://www.openfoam.com/documentation/tutorial-guide
+Post-Processing with ParaView: https://www.paraview.org/download/
 
 # UNCW Coastal Engineering wave tank
 The UNCW Coastal Engineering wave tank is an Edinburgh Designs wave flume designed for experimental studies of waves, coastal processes, and wave–structure interactions. The glass-and-steel tank is nearly 80 ft (24 m) long and 5 ft (1.5 m) wide, with a capacity of approximately 9,500 gallons (36,000 L) of water. 
