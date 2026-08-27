@@ -13,4 +13,5 @@ The UNCW Coastal Engineering wave tank is an Edinburgh Designs wave flume design
 
 # Prerequisites
 How to install Linux on Windows with WSL: https://learn.microsoft.com/en-us/windows/wsl/install  
-The Unix Shell: https://swcarpentry.github.io/shell-novice/
+The Unix Shell: https://swcarpentry.github.io/shell-novice/  
+Version control with Git: https://swcarpentry.github.io/git-novice/  
