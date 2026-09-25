@@ -4,15 +4,15 @@ This repository contains numerical and physical modeling tools and workflows dev
 # UNCW Coastal Engineering wave tank
 The UNCW Coastal Engineering wave tank is an Edinburgh Designs wave flume designed for experimental studies of waves, coastal processes, and wave–structure interactions. The glass-and-steel tank is nearly 80 ft (24 m) long and 5 ft (1.5 m) wide, with a capacity of approximately 9,500 gallons (36,000 L) of water. 
 
-# Numerical modeling
- - OpenFOAM
+# Numerical modeling  
+OpenFOAM
   - Quickstart: https://doc.openfoam.com/2606/quickstart/  
   - Tutorial guide: https://www.openfoam.com/documentation/tutorial-guide  
- - FLOW-3D HYDRO
+FLOW-3D HYDRO
   - Tutorial:
- - Proteus
+Proteus
   - General manual: https://proteustoolkit.org/
- - Visualization
+Visualization
   - Post-Processing with ParaView: https://www.paraview.org/download/
 
 # Prerequisites
