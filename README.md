@@ -16,9 +16,9 @@ Proteus
   - General manual: https://proteustoolkit.org/  
 
 Visualization
-  - Post-Processing with ParaView: https://www.paraview.org/download/
+  - Post-processing with ParaView: https://www.paraview.org/download/
 
 # Prerequisites
 How to install Linux on Windows with WSL: https://learn.microsoft.com/en-us/windows/wsl/install  
-The Unix Shell: https://swcarpentry.github.io/shell-novice/  
+The Unix shell: https://swcarpentry.github.io/shell-novice/  
 Version control with Git: https://swcarpentry.github.io/git-novice/  
