@@ -7,11 +7,14 @@ The UNCW Coastal Engineering wave tank is an Edinburgh Designs wave flume design
 # Numerical modeling  
 OpenFOAM
   - Quickstart: https://doc.openfoam.com/2606/quickstart/  
-  - Tutorial guide: https://www.openfoam.com/documentation/tutorial-guide  
+  - Tutorial guide: https://www.openfoam.com/documentation/tutorial-guide
+
 FLOW-3D HYDRO
   - Tutorial:
+
 Proteus
-  - General manual: https://proteustoolkit.org/
+  - General manual: https://proteustoolkit.org/  
+
 Visualization
   - Post-Processing with ParaView: https://www.paraview.org/download/
 
