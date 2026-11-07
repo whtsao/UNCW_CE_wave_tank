@@ -21,7 +21,8 @@ FLOW-3D HYDRO
   - Tutorial:
 
 Proteus
-  - General manual: https://proteustoolkit.org/  
+  - General manual: https://proteustoolkit.org/
+  - GitHub repo (fork from cekees): https://github.com/whtsao/proteus  
 
 Visualization
   - Post-processing with ParaView: https://www.paraview.org/download/
